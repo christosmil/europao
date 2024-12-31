@@ -1,0 +1,77 @@
+﻿/************************/
+/** Global font family **/
+/************************/
+/* https://stackoverflow.com/questions/7025756/how-to-apply-global-font-to-whole-html-document */
+* {
+   font-family: "Calibri Light", Andale, Arial, "Times New Roman", sans-serif; /* without "important!" */
+   /* define multiple fonts for web safety; calibri might not be compatible with Mac users */
+   line-height: 1.2;
+}
+
+main {
+	font-size: 18px;
+}
+
+/* Style "justify" every paragraph and every element */
+p, div {
+	text-align: justify;
+}
+
+/* non-modified links */
+a.nonModified {
+	color: black;
+	text-decoration: none;
+}
+
+/* resize img according to page size */
+/* https://stackoverflow.com/questions/6169666/how-to-resize-an-image-to-fit-in-the-browser-window */
+img {
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+/* fix body padding */
+body {
+	padding-top: 0;
+	padding-right: 10%;
+	padding-bottom: 0;
+	padding-left: 10%;
+}
+
+footer {
+	background-color: rgb(113, 197, 151);
+	text-align: center;
+	font-size: 12px;
+    position: fixed;
+	right: 10%;
+	bottom: 0;
+    left: 10%;
+}
+
+/* style links */
+a:link {
+  color: rgb(0, 128, 0);
+}
+/* visited link */
+a:visited {
+  color: rgb(0, 128, 0);
+}
+/* mouse over link */
+a:hover {
+  color: rgb(0, 188, 0);
+  text-decoration: none;
+}
+/* selected link */
+a:active {
+  color: rgb(0, 188, 0);
+}
+
+.copyright {
+	text-align: center;
+	font-weight: bold;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	margin-top: 0;
+	margin-bottom: 0;
+}

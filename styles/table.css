@@ -1,0 +1,48 @@
+﻿/* Table modifications */
+table{
+	font-family: "Calibri Light", Andale, Arial, "Times New Roman", sans-serif;
+	border-collapse: separate;
+}
+
+td.games, th.games{
+	/* border: 1px solid black;
+	border-bottom: 1px solid #000000; */
+	text-align: center;
+	padding: 8px;
+}
+
+th.games {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+th.solidClass {
+	outline: thin solid;
+	border: 2px solid #000000;
+	color: black;
+}
+
+td.solidClass {
+	outline: thin solid;
+	border: 2px solid #000000;
+	color: black;
+}
+
+/* tr.a:nth-child(even) {
+	background-color: rgba(30, 144, 255, 0.1);
+}
+
+tr.a:nth-child(odd) {
+	background-color: rgba(30, 144, 255, 0.2);
+}
+
+th.a {
+	background-color: rgba(30, 144, 255, 0.4);
+} */
+
+caption{
+	caption-side: top;
+	text-align: center;
+	font-size: 14px;
+	color: #000000;
+}

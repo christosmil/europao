@@ -1,0 +1,260 @@
+:root {
+  --chL: rgb(0,0,255);
+  --cWC: rgb(0,128,128);
+  --iCF: rgb(0,204,255);
+  --ueC: rgb(51,102,255);
+  --euL: rgb(255,102,0);
+  --coL: rgb(0,190,20);
+  --hov: rgb(224,224,224);
+}
+
+header {
+	background-color: rgb(113,197,151);
+}
+
+.mytopnavbar {
+	background-color: rgb(52,163,101);
+}
+
+.dropdown-toggle,
+.dropdown-item {
+	font-weight: bold;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
+
+h2 {
+	font-weight: bold;
+	padding-top: 12px;
+	padding-bottom: 6px;
+	
+}
+
+.jumbotron {
+	margin-top: 24px;
+	padding: 12px 24px 6px;
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 0;
+	box-shadow: 1px 1px 20px 0 rgb(113,197,151);
+}
+
+.indexbody {
+	background-image: url('../images/origins.png');
+	background-size: cover;
+}
+
+.legend {
+	font-weight: bold;	
+}
+
+.legend>h2, .ticketsSeason>h2{
+	font-size: 120%;
+}
+
+.legend>ul {
+	padding-left: 0;
+}
+
+.legend>ul>li {
+	list-style: none;
+	padding-bottom: 6px;
+	font-size: small;
+	font-variant: small-caps;
+}
+
+dfn {
+	font-style: normal;
+}
+
+.season {
+	text-align: center;
+}
+
+.emptySeason {
+	color: rgb(0,128,0);
+}
+
+.ticketsSeason {
+	text-align: left;
+}
+
+.ticketsSeason>table {
+	font-size: small;
+}
+
+.ticketsSeason>table>tbody>tr>td {
+	padding: 0 12px 6px 0;
+}
+
+.ticketsSeason>table>tbody>tr>td:nth-child(1) {
+	font-weight: bold;
+}
+
+#uefaban,
+#penalties {
+	font-size: small;
+	text-align: justified;
+}
+
+.citation::before {
+  content: "[";
+}
+.citation::after {
+  content: "]";
+}
+/* ------------------------------------------------------------------------- */
+
+/* ------------------------------------------------------------------------- */
+/* Competions styling */
+.competition {
+	font-size: small;
+	color: rgb(0,128,0);
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin-top: 0;
+	margin-bottom: 0;
+	background-color: rgb(255,255,255);
+}
+.championsLeague {
+	color: var(--chL);
+}
+.championsLeagueBg {
+	background-color: var(--chL);
+}
+.cupWinnersCup {
+	color: var(--cWC);
+}
+.cupWinnersCupBg {
+	background-color: var(--cWC);
+}
+.interCitiesFairs {
+	color: var(--iCF);
+}
+.interCitiesFairsBg {
+	background-color: var(--iCF);
+}
+.uefaCup {
+	color: var(--ueC);
+}
+.uefaCupBg {
+	background-color: var(--ueC);
+}
+.europaLeague {
+	color: var(--euL);
+}
+.europaLeagueBg {
+	background-color: var(--euL);
+}
+.conferenceLeague {
+	color: var(--coL);
+}
+.conferenceLeagueBg {
+	background-color: var(--coL);
+}
+.groupTable {
+	text-align: center;
+	width: 100%;
+}
+tr:hover {
+	font-weight: bold;
+}
+.championsGroup th {
+	background-color: var(--chL);
+	color: rgb(255,255,255);
+	border: ridge 2px var(--chL);
+}
+.championsGroup td {
+	border: ridge 2px var(--chL);
+}
+.championsGroup tr:hover {
+	background-color: rgba(0,0,255,0.1);
+}
+.europaGroup th {
+	background-color: var(--euL);
+	border: ridge 2px var(--euL);
+}
+.europaGroup td {
+	border: ridge 2px var(--euL);
+}
+.europaGroup tr:hover {
+	background-color: rgba(255,102,0,0.1);
+}
+.uefaGroup th {
+	background-color: var(--ueC);
+	color: rgb(255,255,255);
+	border: ridge 2px var(--ueC);
+}
+.uefaGroup td {
+	border: ridge 2px var(--ueC);
+}
+.uefaGroup tr:hover {
+	background-color: rgba(51,102,255,0.1);
+}
+.conferenceGroup th {
+	background-color: var(--coL);
+	border: ridge 2px var(--coL);
+}
+.conferenceGroup td {
+	border: ridge 2px var(--coL);
+}
+.conferenceGroup tr:hover {
+	background-color: rgba(0,190,20,0.1);
+}
+
+.groupTable {
+   counter-reset: tableCount;     
+}
+.counterCell:before {              
+    content: counter(tableCount); 
+    counter-increment: tableCount; 
+}
+/* ------------------------------------------------------------------------- */
+
+/* ------------------------------------------------------------------------- */
+/* Card styling */
+.card {
+	text-align: center;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	border-width: 0;
+}
+.card-body>h3 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 120%;
+}
+.card-body>p {
+	text-align: center;
+}
+.card-footer {
+	background-color: rgb(255,255,255);
+	border-top: 0;
+	font-size: small;
+}
+/* ------------------------------------------------------------------------- */
+
+/* ------------------------------------------------------------------------- */
+/* Scoreboard styling */
+.scoreboard {
+	font-size: 90%;
+	color: rgb(255,255,255);
+	padding-right: 6px;
+	padding-left: 6px;
+	border-radius: 9px;
+	margin-right: 6px;
+	margin-left: 6px;
+}
+/* ------------------------------------------------------------------------- */
+
+/* ------------------------------------------------------------------------- */
+/* Team Logo styling */
+.teamlogo {
+	height: 31.3px;
+}
+/* ------------------------------------------------------------------------- */
+
