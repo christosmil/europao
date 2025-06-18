@@ -1,11 +1,11 @@
 const decades = [2020, 2010, 2000, 1990, 1980, 1970, 1960];
-let seasonsOfLastDecade = 5;
+let seasonsOfLastDecade = 6;
 let startPoint;
 let endPoint = 0;
 
 let textMenu = `
 <nav class="navbar navbar-expand-lg navbar-light static-top mytopnavbar">
-<a class="navbar-brand" href="./index.html"><img src="../images/Panathinaikos 
+<a class="navbar-brand" href="./index.html"><img src="./images/Panathinaikos 
 FC.png" height="31.3" alt="Panathinaikos FC"></a><button
 class="navbar-toggler" type="button" data-toggle="collapse"
 data-target="\#navbarResponsive"
