@@ -59,9 +59,8 @@
 	color: rgb(232,83,20);
 }
 
-.fcastana {
-	color: rgb(109,186,240);
-	text-shadow: -1px 0 rgb(237,229,40), 0 1px rgb(237,229,40), 1px 0 rgb(237,229,40), 0 -1px rgb(237,229,40);
+.astonvillafc {
+	color: rgb(103,14,54);
 }
 
 .athleticclub{
@@ -72,8 +71,17 @@
 	color: rgb(236,28,36);
 }
 
+.bolognafc1909 {
+	color: rgb(26,47,72);
+}
+
 .brondbyif {
 	color: rgb(23,54,93);
+}
+
+.bscyoungboys {
+	color: rgb(0,0,0);
+	text-shadow: -1px 0 rgb(249,204,17), 0 1px rgb(249,204,17), 1px 0 rgb(249,204,17), 0 -1px rgb(249,204,17);
 }
 
 .bsgsachsenringzwickau {
@@ -82,6 +90,10 @@
 
 .budapesthonvedfc {
 	color: rgb(255,0,0);
+}
+
+.celticfc {
+	color: rgb(1,135,73);
 }
 
 .cerclebruggeksv {
@@ -117,8 +129,17 @@
 	color: rgb(128,0,128);
 }
 
+.fcastana {
+	color: rgb(109,186,240);
+	text-shadow: -1px 0 rgb(237,229,40), 0 1px rgb(237,229,40), 1px 0 rgb(237,229,40), 0 -1px rgb(237,229,40);
+}
+
 .fcbarcelona {
 	color: rgb(0,85,165);
+}
+
+.fcbasel1893 {
+	color: rgb(240,0,40);
 }
 
 .fcbayernmunchen {
@@ -223,8 +244,20 @@
 	color: rgb(0,0,255);
 }
 
+.fcsalzburg {
+	color: rgb(228,8,69);
+}
+
 .fcsteauabucuresti {
 	color: rgb(255,0,0);
+}
+
+.fcutrecht {
+	color: rgb(237,26,47);
+}
+
+.fcviktoriaplzen {
+	color: rgb(228,29,18);
 }
 
 .fcvorwartsberlin {
@@ -233,7 +266,8 @@
 }
 
 .fenerbahcesk {
-	color: rgb(215,210,0);
+	color: rgb(0,65,127);
+	text-shadow: -1px 0 rgb(255,237,0), 0 1px rgb(255,237,0), 1px 0 rgb(255,237,0), 0 -1px rgb(255,237,0);
 }
 
 .ferencvarositc {
@@ -253,7 +287,7 @@
 }
 
 .fkcrvenazvezda {
-	color: rgb(255,0,0);
+	color: rgb(235,25,38);
 }
 
 .fkmladaboleslav {
@@ -278,6 +312,15 @@
 
 .glentoranfc {
 	color: rgb(30,116,57);
+}
+
+.gnkdinamo {
+	color: rgb(0,73,154);
+}
+
+.goaheadeagles {
+	color: rgb(193,2,48);
+	text-shadow: -1px 0 rgb(255,214,0), 0 1px rgb(255,214,0), 1px 0 rgb(255,214,0), 0 -1px rgb(255,214,0);
 }
 
 .grasshopperclub {
@@ -329,6 +372,10 @@
 	color: rgb(0,71,148);
 }
 
+.krcgenk {
+	color: rgb(2,77,157);
+}
+
 .kkslechpoznan {
 	color: rgb(51,102,255);
 }
@@ -362,6 +409,10 @@
 	color: rgb(255,0,0);
 }
 
+.losclille {
+	color: rgb(224, 30, 19);
+}
+
 .maccabihaifafc {
 	color: rgb(0,118,56);
 }
@@ -373,6 +424,10 @@
 
 .malagacf {
 	color: rgb(51,102,255);
+}
+
+.malmoff {
+	color: rgb(0,142,203);
 }
 
 .manchesterunitedfc {
@@ -407,6 +462,10 @@
 	color: rgb(0,144,54);
 }
 
+.nottinghamforestfc {
+	color: rgb(221,0,0);
+}
+
 .odensebk {
 	color: rgb(51,102,255);
 }
@@ -415,8 +474,16 @@
 	color: rgb(51,102,255);
 }
 
+.ogcnice {
+	color: rgb(237,28,36);
+}
+
 .olympiquedemarseille {
 	color: rgb(0,152,216);
+}
+
+.olympiquelyonnais {
+	color: rgb(218,8,18);
 }
 
 .pafosfc {
@@ -425,6 +492,10 @@
 
 .panathinaikos {
 	color: rgb(0,128,0);
+}
+
+.paokfc {
+	color: rgb(0,0,0);
 }
 
 .parissaint-germainfc {
@@ -442,6 +513,10 @@
 
 .pfclitexlovech {
 	color: rgb(255,153,0);
+}
+
+.pfcludogorets1945 {
+	color: rgb(5,103,56);
 }
 
 .pfcpirinblagoevgrad {
@@ -510,6 +585,10 @@
 	color: rgb(0,0,85);
 }
 
+.scfreiburg {
+	color: rgb(253,18,32);
+}
+
 .sevillafc {
 	color: rgb(255,0,0);
 }
@@ -519,6 +598,10 @@
 }
 
 .shelbourne {
+	color: rgb(255,0,0);
+}
+
+.skbrann {
 	color: rgb(255,0,0);
 }
 
