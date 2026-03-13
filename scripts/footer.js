@@ -7,7 +7,7 @@ let d = (new Date(document.lastModified)).toLocaleDateString("en-US", options);
 let displayDate = "<p>Last Update: <time>" + d + "</time></p>";
 
 let textFooter = `
-\&\#9400; 2020-2025 Christos Milarokostas \&\#8226; 
+\&\#9400; 2020-2026 Christos Milarokostas \&\#8226; 
 <a href="mailto:xristos_mil@hotmail.com">
 Get in touch!</a>
 `;
