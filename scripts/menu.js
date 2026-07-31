@@ -1,5 +1,5 @@
 const decades = [2020, 2010, 2000, 1990, 1980, 1970, 1960];
-let seasonsOfLastDecade = 6;
+let seasonsOfLastDecade = 7;
 let startPoint;
 let endPoint = 0;
 
