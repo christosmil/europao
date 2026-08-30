@@ -10,6 +10,10 @@
 	color: rgb(255,0,0);
 }
 
+.aarhusgymnastikforening {
+	color: rgb(29,35,98);
+}
+
 .aberdeenfc {
 	color: rgb(255,0,0);
 }
@@ -59,8 +63,16 @@
 	color: rgb(232,83,20);
 }
 
+.asmonacofc {
+	color: rgb(255,0,46);
+}
+
 .astonvillafc {
 	color: rgb(103,14,54);
+}
+
+.atalantabc {
+	color: rgb(13,104,177);
 }
 
 .athleticclub{
@@ -73,6 +85,10 @@
 
 .bolognafc1909 {
 	color: rgb(26,47,72);
+}
+
+.brightonandhovealbionfc {
+	color: rgb(0,74,153);
 }
 
 .brondbyif {
@@ -178,8 +194,17 @@
 	color: rgb(0,0,0);
 }
 
+.fciberia1999 {
+	color: rgb(203,20,47);
+}
+
 .fcinternazionalemilano {
 	color: rgb(0,0,255);
+}
+
+.fckairat {
+	color: rgb(39,36,37);
+	text-shadow: -1px 0 rgb(255,201,54), 0 1px rgb(255,201,54), 1px 0 rgb(255,201,54), 0 -1px rgb(255,201,54);
 }
 
 .fckobenhavn {
@@ -214,6 +239,10 @@
 
 .fcnoah {
 	color: rgb(0,0,0);
+}
+
+.fcnordsjaelland {
+	color: rgb(228,34,35);
 }
 
 .fcpetrocub {
@@ -256,6 +285,14 @@
 	color: rgb(255,0,0);
 }
 
+.fcthun {
+	color: rgb(226,0,26);
+}
+
+.fctwente {
+	color: rgb(230,0,26);
+}
+
 .fcutrecht {
 	color: rgb(237,26,47);
 }
@@ -294,6 +331,14 @@
 	color: rgb(235,25,38);
 }
 
+.fkjablonec {
+	color: rgb(1,49,31);
+}
+
+.fkkaunozalgiris {
+	color: rgb(0,126,69);
+}
+
 .fkmladaboleslav {
 	color: rgb(0,0,255);
 }
@@ -312,6 +357,10 @@
 
 .galatasarayas {
 	color: rgb(255,153,0);
+}
+
+.getafecf {
+	color: rgb(0,79,142);
 }
 
 .glentoranfc {
@@ -359,6 +408,10 @@
 	color: rgb(0,0,255);
 }
 
+.interclubdescaldes {
+	color: rgb(0,84,166);
+}
+
 .istanbulbasaksehirfk {
 	color: rgb(253,80,1);
 }
@@ -376,12 +429,21 @@
 	color: rgb(0,71,148);
 }
 
-.krcgenk {
-	color: rgb(2,77,157);
+.kfegnatia {
+	color: rgb(46,154,69);
 }
 
 .kkslechpoznan {
 	color: rgb(51,102,255);
+}
+
+.krcgenk {
+	color: rgb(2,77,157);
+}
+
+.ksint-truidensevv {
+	color: rgb(36,70,135);
+	text-shadow: -1px 0 rgb(245,238,66), 0 1px rgb(245,238,66), 1px 0 rgb(245,238,66), 0 -1px rgb(245,238,66);
 }
 
 .kspoloniabytom {
@@ -390,6 +452,11 @@
 
 .ksppoloniawarszawa {
 	color: rgb(255,0,0);
+}
+
+.kuopionpalloseura {
+	color: rgb(33,30,30);
+	text-shadow: -1px 0 rgb(253,230,0), 0 1px rgb(253,230,0), 1px 0 rgb(253,230,0), 0 -1px rgb(253,230,0);
 }
 
 .larnefc {
@@ -403,6 +470,10 @@
 
 .legiawarszawa {
 	color: rgb(0,134,53);
+}
+
+.lincolnredimpsfc {
+	color: rgb(238,15,17);
 }
 
 .linfieldfc {
@@ -440,6 +511,11 @@
 
 .mfkpetrzalka {
 	color: rgb(0,0,0);
+}
+
+.mjallbyaif {
+	color: rgb(35,31,32);
+	text-shadow: -1px 0 rgb(255,212,0), 0 1px rgb(255,212,0), 1px 0 rgb(255,212,0), 0 -1px rgb(255,212,0);
 }
 
 .moldefk {
@@ -569,6 +645,10 @@
 	color: rgb(255,0,0);
 }
 
+.rigafc {
+	color: rgb(35,75,106);
+}
+
 .rosenborgbk {
 	color: rgb(0,0,0);
 }
@@ -661,8 +741,16 @@
 	color: rgb(0,0,255);
 }
 
+.trabzonsporas {
+	color: rgb(90,16,40);
+}
+
 .udinesecalcio {
 	color: rgb(0,0,0);
+}
+
+.universitateacraiova {
+	color: rgb(0,108,181);
 }
 
 .ucsampdoria {
